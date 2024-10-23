@@ -106,7 +106,7 @@ Now we need to add your Twitch and osu! information to the bot code.
      Find the line that says `twitch_nickname = ''` and replace it with your Twitch bot’s username (inside the quotes).  
      Example:  
      ```python
-     twitch_nickname = ''
+     twitch_nickname = 'gonzeiBot'
      ```
 
   2. **Twitch OAuth Token**:  
