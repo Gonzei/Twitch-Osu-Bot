@@ -112,6 +112,7 @@ Now we need to add your Twitch and osu! information to the bot code.
 
   2. **Twitch OAuth Token**:  
      Find the line that says `twitch_token = ''` and paste the OAuth token you copied earlier (inside the quotes).  
+
      Example:  
      ```python
      twitch_token = 'oauth:your_token_here'
@@ -119,6 +120,7 @@ Now we need to add your Twitch and osu! information to the bot code.
 
   3. **Twitch Channel**:  
      Find the line that says `twitch_channel = ''` and enter your Twitch channel (inside the quotes). Be sure to include the `#` symbol.  
+
      Example:  
      ```python
      twitch_channel = '#your_twitch_channel'
@@ -126,6 +128,7 @@ Now we need to add your Twitch and osu! information to the bot code.
 
   4. **osu! Username**:  
      Find the line that says `bancho_nickname = ''` and replace it with your osu! username (inside the quotes).  
+
      Example:  
      ```python
      bancho_nickname = 'your_osu_username'
@@ -133,6 +136,7 @@ Now we need to add your Twitch and osu! information to the bot code.
 
   5. **osu! IRC Password**:  
      Find the line that says `bancho_password = ''` and paste your osu! Bancho IRC password (inside the quotes).  
+     
      Example:  
      ```python
      bancho_password = 'your_osu_irc_password'
