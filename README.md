@@ -67,7 +67,7 @@ osu! has an IRC (Internet Relay Chat) server called Bancho. You’ll need a pass
 ### 1. **Download the Bot Code**
 
 - **Download the Code**:  
-  Download the bot’s code from this repository or the ZIP file that contains the `twitch_osu_bot.py` file. If you don’t have it yet, ask the person who shared the bot with you to provide it.
+  Download the bot’s code from this repository or the ZIP file that contains the `twitch_osu_bot.py` file. 
 
 ### 2. **Open the Code in VSCode**
 
