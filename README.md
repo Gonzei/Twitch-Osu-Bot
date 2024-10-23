@@ -110,7 +110,7 @@ Now we need to add your Twitch and osu! information to the bot code.
      ```
 
   2. **Twitch OAuth Token**:  
-     Find the line that says `twitch_token = ''` and paste the OAuth token you copied earlier (inside the quotes).  
+     Find the line that says `twitch_token = ''` and paste the OAuth token you copied earlier (inside the quotes) (you can also use your own username to avoid creating a new account).  
      Example:  
      ```python
      twitch_token = 'oauth:your_token_here'
